@@ -1,0 +1,26 @@
+header{
+	padding: 20px;
+	margin-left: 100px;
+	color: white;
+	font-family: helvetica;
+	height: 10%;
+	width: 15%;
+	background-color: #4aaaa5;
+	padding: 30px;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+p{
+	float: left;
+}
+
+li{
+	display: inline;
+	float: left;
+}
+
+h1{
+	font-weight: bold;
+}
